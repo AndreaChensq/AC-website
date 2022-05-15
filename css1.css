@@ -1,1 +1,9 @@
-body{background-color: yellow}
+body{ margin: 0;
+ }
+header{ background: pink;
+text-align: center}
+header h1{ color: white}
+header img{
+border radius: 170px;
+border: 20px solid: salmon
+width: 300px}
